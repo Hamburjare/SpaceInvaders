@@ -1,5 +1,18 @@
 # Space Invaders Clone
 
+## Table of Contents
+
+- [Space Invaders Clone](#space-invaders-clone)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Gameplay](#gameplay)
+  - [How to play](#how-to-play)
+  - [Screenshots](#screenshots)
+  - [Installation](#installation)
+  - [How to build](#how-to-build)
+  - [How to run without building](#how-to-run-without-building)
+  - [Credits](#credits)
+
 ## Description
 
 Space Invaders clone made with C# and Raylib.
