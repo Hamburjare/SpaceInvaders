@@ -36,6 +36,12 @@ Gamepad controls:
 - Move down: D-Pad Down
 - Switch input between keyboard and gamepad: I
 
+## Screenshots
+
+![Main Menu](./screenshots/MainMenu.png)
+![FirstLevel](./screenshots/FirstLevel.png)
+![Game Over](./screenshots/GameOver.png)
+
 ## Installation
 
 1. Download the latest release from the [releases page](https://github.com/Hamburjare/SpaceInvaders/releases)
