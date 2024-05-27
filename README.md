@@ -51,9 +51,9 @@ Gamepad controls:
 
 ## Screenshots
 
-![Main Menu](./screenshots/MainMenu.png)
-![FirstLevel](./screenshots/FirstLevel.png)
-![Game Over](./screenshots/GameOver.png)
+![Main Menu](/screenshots/MainMenu.png)
+![FirstLevel](/screenshots/FirstLevel.png)
+![Game Over](/screenshots/GameOver.png)
 
 ## Installation
 
