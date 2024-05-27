@@ -60,6 +60,7 @@ Gamepad controls:
 5. Enjoy!
 
 ## Credits
+
 - [Raylib](https://www.raylib.com/)
 - [2D Assets](https://kenney-assets.itch.io/pixel-shmup)
 - [Sound Effects](https://sfxr.me/)
