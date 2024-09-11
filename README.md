@@ -67,7 +67,7 @@ Gamepad controls:
 1. Install the [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 2. Clone the repository
 3. Open a terminal in the repository folder
-4. Run `dotnet build -o build -c Release --self-contained`
+4. Run `dotnet build -o build -c Release --self-contained true`
 5. Open the `build` folder and run the `SpaceInvaders` executable
 
 ## How to run without building
